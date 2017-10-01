@@ -11,5 +11,4 @@ A architecture model viewer using a WebGL engine (Three.js) and provided distri
 
 ## Copyright
 This project is supported by the GDADRI.
-
-本项目版权归广东省科学技术、广东省建筑设计研究院
+本项目版权归广东省科学技术厅、广东省建筑设计研究院所有
